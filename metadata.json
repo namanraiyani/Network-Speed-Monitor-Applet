@@ -1,0 +1,8 @@
+{
+  "uuid": "netspeed@naman",
+  "name": "Network Speed Monitor",
+  "description": "Displays real-time internet speed (download/upload).",
+  "version": 1,
+  "max-instances": 1,
+  "multiversion": true
+}
